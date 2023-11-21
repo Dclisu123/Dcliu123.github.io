@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Su Li's Personal Website"
+title                    : "Su Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
