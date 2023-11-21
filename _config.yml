@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Su Li"
   avatar           : "profile.png"
-  bio              : "A Ph.D. Candidate at Texas A&M University"
-  location         : #"Location"
+  bio              : "Ph.D. Candidate at "
+  location         : "Texas A&M University"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CfBDgvwAAAAJ&hl=en"
