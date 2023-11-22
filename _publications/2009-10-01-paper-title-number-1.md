@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "An optimization-based framework to minimize the spread of diseases in social networks with heterogeneous nodes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 
+excerpt: ''
+date: 2023/3/27
+venue: ''
+paperurl: 'https://doi.org/10.1080/24725854.2023.2191668'
+citation: 'Li, S., & Aprahamian, H. (2023). An optimization-based framework to minimize the spread of diseases in social networks with heterogeneous nodes. IISE Transactions, 1-15..&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Li, S., & Aprahamian, H. (2023). An optimization-based framework to minimize the spread of diseases in social networks with heterogeneous nodes. IISE Transactions, 1-15. <i>Journal 1</i>. 1(1).
